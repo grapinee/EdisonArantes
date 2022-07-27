@@ -4,4 +4,5 @@ body{
 p{
     color: white;
     background: rgba(165, 158, 158, 0.828);
+    width: 500px;
 }
